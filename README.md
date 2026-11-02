@@ -9,7 +9,7 @@ This study uses the **HAM10000 Melanoma Skin Cancer dataset** for binary classif
 - **Benign**
 - **Malignant**
 
-The dataset used for the experiments is provided in the dataset file. 
+The dataset used for the experiments is provided in malenoma_skin_cancer_data_10000.zip.
 
 ## Methodology
 
